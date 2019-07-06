@@ -1,0 +1,16 @@
+PODS:
+  - EmptyStateKit (1.0.6)
+
+DEPENDENCIES:
+  - EmptyStateKit (from `../`)
+
+EXTERNAL SOURCES:
+  EmptyStateKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EmptyStateKit: df2f99c22c8f001eb856c47911ce4797abc37f0d
+
+PODFILE CHECKSUM: f68fc92804185eb9d18043f925121736eafb4105
+
+COCOAPODS: 1.7.0.beta.3
